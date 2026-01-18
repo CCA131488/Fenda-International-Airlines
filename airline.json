@@ -1,5 +1,5 @@
 {
-    "name": "Fanta International Airlines",
+    "name": "Fenda International Airlines",
     "color": "#000000",
     "bgcolor": "#ffffff",
     "aircrafts": {
@@ -925,4 +925,5 @@
             ]
         }
     }
+
 }
