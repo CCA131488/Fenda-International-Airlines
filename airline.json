@@ -98,6 +98,15 @@
                           "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Airbus_a380/FD.png"
                     ],
                     "credits": "YX"
+                },
+                {
+                    "name": "Fanta International Airlines (Love China livery)",
+                    "texture": [
+                          "/models/aircraft/premium/a380/normal.jpg",
+                          "/models/aircraft/premium/a380/specular.jpg",
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Airbus_a380/FDlovechina.png"
+                    ],
+                    "credits": "KF2447"
                 }
             ],
             "labels": [
@@ -304,6 +313,13 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
+                 {
+                    "name": "Fenda International Airlines (blue design)",
+                    "texture": [
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Boeing_b787-9/FDblue.png"
+                    ],
+                    "credits": "YX"
+                }
             ],
             "labels": [
                 "Texture"
@@ -453,6 +469,14 @@
                           "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Airbus_a350-900/FDsky.png"
                     ],
                     "credits": "KF2447"
+                },
+                {
+                    "name": "Fenda International Airlines Cargo",
+                    "texture": [
+                          "/models/aircraft/premium/a350/specular.jpg",
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Airbus_a350-900/FD359F.png"
+                    ],
+                    "credits": "YX"
                 }
             ],
             "labels": [
@@ -650,6 +674,14 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
+                 {
+                    "name": "Fenda International Airlines (Love China livery)",
+                    "texture": [
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Boeing_b747-8i/FDlovechina.png",
+                          "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "KF2447"
+                }
             ],
             "labels": [
                 "Texture",
