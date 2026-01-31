@@ -32,7 +32,7 @@
             "name": "Boeing b737-700",
             "liveries": [
                  {
-                    "name": "Fanta International Airlines",
+                    "name": "Fanda International Airlines",
                     "texture": [
                           "/models/aircraft/premium/737_700/normal.jpg",
                           "/models/aircraft/premium/737_700/specular.jpg",
@@ -41,7 +41,7 @@
                     "credits": "YX"
                 },
                 {
-                    "name": "Fanta International Airlines (Twilight Prism livery)",
+                    "name": "Fanda International Airlines (Twilight Prism livery)",
                     "texture": [
                           "/models/aircraft/premium/737_700/normal.jpg",
                           "/models/aircraft/premium/737_700/specular.jpg",
@@ -91,7 +91,7 @@
             "name": "Airbus a380-800",
             "liveries": [
                  {
-                    "name": "Fanta International Airlines",
+                    "name": "Fanda International Airlines",
                     "texture": [
                           "/models/aircraft/premium/a380/normal.jpg",
                           "/models/aircraft/premium/a380/specular.jpg",
@@ -100,7 +100,7 @@
                     "credits": "YX"
                 },
                 {
-                    "name": "Fanta International Airlines (Love China livery)",
+                    "name": "Fanda International Airlines (Love China livery)",
                     "texture": [
                           "/models/aircraft/premium/a380/normal.jpg",
                           "/models/aircraft/premium/a380/specular.jpg",
@@ -174,7 +174,7 @@
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
                  {
-                    "name": "Fanta International Airlines",
+                    "name": "Fanda International Airlines",
                     "texture": [
                           "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Concorae/FD.png"
                     ],
@@ -328,6 +328,13 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
+                 {
+                    "name": "Fanda International Airlines (new design)",
+                    "texture": [
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Airbus_a320-214/FDnew.png"
+                    ],
+                    "credits": "HO1796"
+                }
             ],
             "labels": [
                 "Texture"
