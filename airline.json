@@ -928,7 +928,7 @@
                  {
                     "name": "Fanda International Cargo Airlines",
                     "texture": [
-                          "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/boeing_b777-200f/shaders/original.png"
+                          "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/boeing_b777-200f/shaders/original.png",
                           "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Boeing_b777-200f/FDcargo.png"
                     ],
                     "credits": "YX"
@@ -1034,3 +1034,4 @@
     }
 
 }
+
