@@ -516,6 +516,13 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+                 {
+                    "name": "Fanda International Airlines B-32NB",
+                    "texture": [
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Airbus_a321xlr/FD.png"
+                    ],
+                    "credits": "YX"
+                }
             ],
             "labels": [
                 "Texture"
@@ -918,6 +925,14 @@
         "4402": {
             "name": "Boeing b777-200F",
             "liveries": [
+                 {
+                    "name": "Fanda International Cargo Airlines",
+                    "texture": [
+                          "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/boeing_b777-200f/shaders/original.png"
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Boeing_b777-200f/FDcargo.png"
+                    ],
+                    "credits": "YX"
+                }
             ],
             "labels": [
                 "Metallic Roughness shader",
@@ -953,6 +968,15 @@
         "1018": {
             "name": "Embraer ERJ 190",
             "liveries": [
+                 {
+                    "name": "Fanda International Airlines",
+                    "texture": [
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Embraer_e190/FD.png",
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Embraer_e190/FD.png",
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Embraer_e190/FD.png"
+                    ],
+                    "credits": "YX"
+                }
             ],
             "labels": [
                 "Texture"
