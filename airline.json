@@ -1026,12 +1026,18 @@
         "5551": {
             "name": "Comac C919",
             "liveries": [
+                 {
+                    "name": "Fanda International Airlines",
+                    "texture": [
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Comac_c919/FD.png"
+                    ],
+                    "credits": "YX"
+                }
             ],
             "labels": [
                 "Texture"
             ]
         }
     }
-
 }
 
