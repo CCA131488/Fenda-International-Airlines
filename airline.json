@@ -100,6 +100,15 @@
                     "credits": "YX"
                 },
                 {
+                    "name": "Fanda International Airlines (Stellar Sky Alliance livery)",
+                    "texture": [
+                          "/models/aircraft/premium/a380/normal.jpg",
+                          "/models/aircraft/premium/a380/specular.jpg",
+                          "https://raw.githubusercontent.com/CCA131488/Fanta-International-Airlines/refs/heads/main/liveries/Airbus_a380/FDsky.png"
+                    ],
+                    "credits": "YX"
+                },
+                {
                     "name": "Fanda International Airlines (Love China livery)",
                     "texture": [
                           "/models/aircraft/premium/a380/normal.jpg",
